@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Ajay
 
-Full Stack Developer 
+### Full Stack Developer 
 <img align="right" width="350" height="260" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
 - 🌱 I’m currently learning Mern Stack Development.
 - ⚡ Fun fact: I am Gamer 👾.
