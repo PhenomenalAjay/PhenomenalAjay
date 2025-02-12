@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ajay
 
 Full Stack Developer. 
-<img align="right" width="350" height="260" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
+<img align="right" width="330" height="270" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
 - 🌱 I’m currently learning Mern Stack Development.
 - ⚡ Fun fact: I am Gamer 👾.
 - Social Presence
@@ -17,7 +17,7 @@ src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/><img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/obs-studio.png" alt="obs-studio"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/><img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/obs-studio.png" alt="obs-studio"/><img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
 
 ### Game Platform . Wanna Play Together Through
 
