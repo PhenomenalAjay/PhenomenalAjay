@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ajay
 
 Full Stack Developer. 
-<img align="right" top="20" right="20" width="330" height="270" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
+<img align="right" width="330" height="270" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
 - 🌱 I’m currently learning Mern Stack Development.
 - ⚡ Fun fact: I am Gamer 👾.
 - Social Presence
