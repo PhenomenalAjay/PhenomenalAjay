@@ -6,7 +6,7 @@ Full Stack Developer.
 - ⚡ Job Placement Status : No 
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Phenomenal_ajay)
-<br />[<img src="https://img.shields.io/badge/Facebook-1877F2" />](https://www.facebook.com/share/1CHhjG1m1A/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1CHhjG1m1A/)
 
 ### The Code I use
 
