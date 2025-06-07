@@ -3,7 +3,7 @@
 Full Stack Developer. 
 <img align="right" width="330" height="270" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">                                                 
 - 🌱 Here is my "[Portfolio](https://ajay-web.netlify.app)"
--  Job Placement Status : No
+-  Looking for Frontend Jobs .
 - ⚡ Fun fact : I am Gamer .
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Phenomenal_ajay)
